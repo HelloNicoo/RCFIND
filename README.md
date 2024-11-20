@@ -7,9 +7,13 @@ This repository contains the code and data for the paper titled "Reading Compreh
 ## 📃 Data
 
 
-The NDCI dataset is sourced from The dataset can be downloaded here [Google Drive][1].
+The NDCI dataset is originally sourced from  [here][4]. 
+
+Our team has processed this data and made it available for your convenience at [Google Drive][1].
 
 [1]: https://drive.google.com/file/d/1PTCvLFV0rX7cFKtmCZ-T8xY2MXBNlQDC/view?usp=sharing
+[4]: https://github.com/allenai/drug-combo-extraction
+
 
 ## 🚀 Quick Start
 # ⚙️ Setup
