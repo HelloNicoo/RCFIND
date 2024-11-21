@@ -48,9 +48,7 @@ python main.py --do_train
 
 &bull; Model Evaling:
 
-We release the RCFIND  model (one seed): model.pkl [Google Drive][3]. You can run it with the following command:
 ```
 python main.py --do_eval
 ```
 
-[3]: https://drive.google.com/file/d/1PTCvLFV0rX7cFKtmCZ-T8xY2MXBNlQDC/view?usp=sharing
